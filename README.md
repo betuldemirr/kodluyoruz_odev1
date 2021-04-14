@@ -1,2 +1,2 @@
-# kodluyoruz_odev1
-HTML Ödev 1
+# First_web_page
+Kodluyoruz - HTML Ödev 1
